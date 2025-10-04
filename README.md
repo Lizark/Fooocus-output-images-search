@@ -31,3 +31,16 @@ A simple tool to search all your Fooocus output images by **Prompt**, **Checkpoi
 Enter prompt: sunset
 Select checkpoint: v1.3
 Select LoRa: dreamy
+```
+---
+
+### 📷 Screenshots
+
+#### Main Initial Window
+![Main Initial Window](./screenshots/main_menu.png)  
+
+#### HTML Output
+![HTML Output](./screenshots/output.png)  
+
+
+
