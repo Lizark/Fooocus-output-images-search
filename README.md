@@ -1,5 +1,5 @@
 # 📂 Fooocus Output Images Search  
-[![Version](https://img.shields.io/badge/version-1.0-blue)](https://github.com/) [![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT) [![Features](https://img.shields.io/badge/features-checkpoint%20dropdown%2C%20missing%20only%2C%20color-coded-blue)](https://github.com/)  
+[![Version](https://img.shields.io/badge/version-1.0-blue)](https://github.com/) [![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 
 A simple tool to search all your Fooocus output images by **Prompt**, **Checkpoint**, or **LoRa**.
 
