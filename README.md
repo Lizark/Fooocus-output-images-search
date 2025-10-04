@@ -22,7 +22,9 @@ A simple tool to search all your Fooocus output images by **Prompt**, **Checkpoi
 ---
 
 ### 🛠 Requirements
-- No extra requirements — just Python and Fooocus.
+```plaintext
+pip install beautifulsoup4 ttkbootstrap
+```
 
 ---
 
