@@ -3,6 +3,8 @@
 
 A simple tool to search all your Fooocus output images by **Prompt**, **Checkpoint**, or **LoRa**.
 
+Do keep in mind this is for personal use so don't expect any update anytime soon, also this is vibe coded with chatgpt if that's matter for you
+
 ---
 
 ### 🔍 How to Use
